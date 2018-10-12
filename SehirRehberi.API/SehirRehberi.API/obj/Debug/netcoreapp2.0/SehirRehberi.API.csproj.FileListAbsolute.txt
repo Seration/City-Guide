@@ -1,0 +1,11 @@
+C:\Users\Sercan\source\repos\SehirRehberi.API\SehirRehberi.API\bin\Debug\netcoreapp2.0\SehirRehberi.API.deps.json
+C:\Users\Sercan\source\repos\SehirRehberi.API\SehirRehberi.API\bin\Debug\netcoreapp2.0\SehirRehberi.API.runtimeconfig.json
+C:\Users\Sercan\source\repos\SehirRehberi.API\SehirRehberi.API\bin\Debug\netcoreapp2.0\SehirRehberi.API.runtimeconfig.dev.json
+C:\Users\Sercan\source\repos\SehirRehberi.API\SehirRehberi.API\bin\Debug\netcoreapp2.0\SehirRehberi.API.dll
+C:\Users\Sercan\source\repos\SehirRehberi.API\SehirRehberi.API\obj\Debug\netcoreapp2.0\SehirRehberi.API.csprojAssemblyReference.cache
+C:\Users\Sercan\source\repos\SehirRehberi.API\SehirRehberi.API\obj\Debug\netcoreapp2.0\SehirRehberi.API.csproj.CoreCompileInputs.cache
+C:\Users\Sercan\source\repos\SehirRehberi.API\SehirRehberi.API\obj\Debug\netcoreapp2.0\SehirRehberi.API.AssemblyInfoInputs.cache
+C:\Users\Sercan\source\repos\SehirRehberi.API\SehirRehberi.API\obj\Debug\netcoreapp2.0\SehirRehberi.API.AssemblyInfo.cs
+C:\Users\Sercan\source\repos\SehirRehberi.API\SehirRehberi.API\bin\Debug\netcoreapp2.0\SehirRehberi.API.pdb
+C:\Users\Sercan\source\repos\SehirRehberi.API\SehirRehberi.API\obj\Debug\netcoreapp2.0\SehirRehberi.API.dll
+C:\Users\Sercan\source\repos\SehirRehberi.API\SehirRehberi.API\obj\Debug\netcoreapp2.0\SehirRehberi.API.pdb
